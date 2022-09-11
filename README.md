@@ -2,4 +2,4 @@
  # I am a full stack web developer from Viet Nam.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cmi-nguyen&them=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cmi-nguyen&theme=dark)](https://git.io/streak-stats)
