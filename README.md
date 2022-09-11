@@ -1,4 +1,4 @@
-﻿# Hi there! I'm, Trieu Tan Nguyen.
+﻿# Hi there! I'm Trieu Tan Nguyen.
  # Im a full stack web developer from Viet Nam.
 
 
